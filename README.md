@@ -6,6 +6,8 @@ In this blog, we will train a state-of-the-art Text Classification model using `
 
 So, let's get started...
 
+[Youtube video](https://youtu.be/TmT-sKxovb0).
+
 ## Requirements
 ---
 To follow this blog end-to-end, you need to set up a new environment on your computer. However, it is not compulsory to use your local machine, you can train a model on, let's say [Google Colab](https://research.google.com/colaboratory/) and download the trained model to server the requests for classification [it is out of the scope for this blog, maybe in my next blog I will cover this].
